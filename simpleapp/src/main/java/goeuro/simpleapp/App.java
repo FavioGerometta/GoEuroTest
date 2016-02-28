@@ -12,6 +12,8 @@ public final class App {
 		}
 		final GoEuroInterview goEuro = new GoEuroInterview();
 		goEuro.writeLocationsToCsv(args[0]);
+		
+		System.out.println("**** END OF APP ****");
 
 	}
 
