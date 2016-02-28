@@ -8,4 +8,4 @@ You will need to set target compliance and library to JRE 8.
 
 # Run it
 
-All you need to do is run is run package command with maven. Program only accepts one input parameter and should be a valid cityName.
+All you need to do is run the package command with maven to generate the jar file. Program only accepts one input parameter and should be a valid cityName.
