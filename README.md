@@ -10,15 +10,21 @@ You will need to set target compliance and library to JRE 8.
 
 All you need to do is run the following command
 
+```
 mvn assembly:assembly
+```
 
 # Run it
 
 In target folder just run this command:
 
+```
 java -jar simpleapp-{version}-jar-with-dependencies.jar [CITY_NAME]
+```
 
 # Example
 
+```
 java -jar simpleapp-0.0.1-jar-with-dependencies.jar "Berlin"
+```
 
