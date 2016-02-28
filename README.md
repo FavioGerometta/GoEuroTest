@@ -8,7 +8,7 @@ You will need to set target compliance and library to JRE 8.
 
 # Assemble it
 
-All you need to do is run the following command
+All you need to do is run the following command:
 
 ```
 mvn assembly:assembly
